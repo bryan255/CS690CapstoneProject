@@ -1,0 +1,186 @@
+Season,Round,Home,Opponent,Target
+2003,World Series,New York Yankees,Florida Marlins,0
+2003,ALCS,New York Yankees,Boston Red Sox,1
+2003,NLCS,Florida Marlins,Chicago Cubs,1
+2003,AL Division Series,New York Yankees,Minnesota Twins,1
+2003,AL Division Series,Oakland Athletics,Boston Red Sox,0
+2003,NL Division Series,San Francisco Giants,Florida Marlins,0
+2003,NL Division Series,Atlanta Braves,Chicago Cubs,0
+2004,World Series,St. Louis Cardinals,Boston Red Sox,0
+2004,ALCS,New York Yankees,Boston Red Sox,0
+2004,NLCS,St. Louis Cardinals,Houston Astros,1
+2004,AL Division Series,Boston Red Sox,Anaheim Angels,1
+2004,AL Division Series,New York Yankees,Minnesota Twins,1
+2004,NL Division Series,St. Louis Cardinals,Los Angeles Dodgers,1
+2004,NL Division Series,Atlanta Braves,Houston Astros,0
+2005,World Series,Chicago White Sox,Houston Astros,1
+2005,ALCS,Chicago White Sox,Los Angeles Angels of Anaheim,1
+2005,NLCS,St. Louis Cardinals,Houston Astros,0
+2005,AL Division Series,Chicago White Sox,Boston Red Sox,1
+2005,AL Division Series,New York Yankees,Los Angeles Angels of Anaheim,0
+2005,NL Division Series,St. Louis Cardinals,San Diego Padres,1
+2005,NL Division Series,Atlanta Braves,Houston Astros,0
+2006,World Series,Detroit Tigers,St. Louis Cardinals,0
+2006,ALCS,Detroit Tigers,Oakland Athletics,1
+2006,NLCS,New York Mets,St. Louis Cardinals,0
+2006,AL Division Series,New York Yankees,Detroit Tigers,0
+2006,AL Division Series,Minnesota Twins,Oakland Athletics,0
+2006,NL Division Series,New York Mets,Los Angeles Dodgers,1
+2006,NL Division Series,San Diego Padres,St. Louis Cardinals,0
+2007,World Series,Boston Red Sox,Colorado Rockies,1
+2007,ALCS,Boston Red Sox,Cleveland Indians,1
+2007,NLCS,Arizona Diamondbacks,Colorado Rockies,0
+2007,AL Division Series,Boston Red Sox,Los Angeles Angels of Anaheim,1
+2007,AL Division Series,Cleveland Indians,New York Yankees,1
+2007,NL Division Series,Arizona Diamondbacks,Chicago Cubs,1
+2007,NL Division Series,Colorado Rockies,Philadelphia Phillies,1
+2008,World Series,Tampa Bay Rays,Philadelphia Phillies,0
+2008,ALCS,Tampa Bay Rays,Boston Red Sox,1
+2008,NLCS,Philadelphia Phillies,Los Angeles Dodgers,1
+2008,AL Division Series,Los Angeles Angels of Anaheim,Boston Red Sox,0
+2008,AL Division Series,Tampa Bay Rays,Chicago White Sox,1
+2008,NL Division Series,Chicago Cubs,Los Angeles Dodgers,0
+2008,NL Division Series,Philadelphia Phillies,Milwaukee Brewers,1
+2009,World Series,New York Yankees,Philadelphia Phillies,1
+2009,ALCS,New York Yankees,Los Angeles Angels of Anaheim,1
+2009,NLCS,Los Angeles Dodgers,Philadelphia Phillies,0
+2009,AL Division Series,New York Yankees,Minnesota Twins,1
+2009,AL Division Series,Los Angeles Angels of Anaheim,Boston Red Sox,1
+2009,NL Division Series,Los Angeles Dodgers,St. Louis Cardinals,1
+2009,NL Division Series,Philadelphia Phillies,Colorado Rockies,1
+2010,World Series,San Francisco Giants,Texas Rangers,1
+2010,ALCS,New York Yankees,Texas Rangers,0
+2010,NLCS,Philadelphia Phillies,San Francisco Giants,0
+2010,AL Division Series,Tampa Bay Rays,Texas Rangers,0
+2010,AL Division Series,New York Yankees,Minnesota Twins,1
+2010,NL Division Series,Philadelphia Phillies,Cincinnati Reds,1
+2010,NL Division Series,San Francisco Giants,Atlanta Braves,1
+2011,World Series,Texas Rangers,St. Louis Cardinals,0
+2011,ALCS,Texas Rangers,Detroit Tigers,1
+2011,NLCS,Milwaukee Brewers,St. Louis Cardinals,0
+2011,AL Division Series,New York Yankees,Detroit Tigers,0
+2011,AL Division Series,Texas Rangers,Tampa Bay Rays,1
+2011,NL Division Series,Philadelphia Phillies,St. Louis Cardinals,0
+2011,NL Division Series,Milwaukee Brewers,Arizona Diamondbacks,1
+2012,World Series,San Francisco Giants,Detroit Tigers,1
+2012,ALCS,New York Yankees,Detroit Tigers,0
+2012,NLCS,San Francisco Giants,St. Louis Cardinals,1
+2012,AL Division Series,New York Yankees,Baltimore Orioles,1
+2012,AL Division Series,Oakland Athletics,Detroit Tigers,0
+2012,NL Division Series,Washington Nationals,St. Louis Cardinals,0
+2012,NL Division Series,Cincinnati Reds,San Francisco Giants,0
+2012,Wild Card Game,Baltimore Orioles,Texas Rangers,1
+2012,Wild Card Game,Atlanta Braves,St. Louis Cardinals,0
+2013,World Series,Boston Red Sox,St. Louis Cardinals,1
+2013,ALCS,Boston Red Sox,Detroit Tigers,1
+2013,NLCS,St. Louis Cardinals,Los Angeles Dodgers,1
+2013,AL Division Series,Boston Red Sox,Tampa Bay Rays,1
+2013,AL Division Series,Oakland Athletics,Detroit Tigers,0
+2013,NL Division Series,St. Louis Cardinals,Pittsburgh Pirates,1
+2013,NL Division Series,Atlanta Braves,Los Angeles Dodgers,0
+2013,Wild Card Game,Cleveland Indians,Tampa Bay Rays,0
+2013,Wild Card Game,Pittsburgh Pirates,Cincinnati Reds,1
+2014,World Series,Kansas City Royals,San Francisco Giants,0
+2014,ALCS,Baltimore Orioles,Kansas City Royals,0
+2014,NLCS,St. Louis Cardinals,San Francisco Giants,0
+2014,AL Division Series,Los Angeles Angels of Anaheim,Kansas City Royals,0
+2014,AL Division Series,Baltimore Orioles,Detroit Tigers,1
+2014,NL Division Series,Washington Nationals,San Francisco Giants,0
+2014,NL Division Series,Los Angeles Dodgers,St. Louis Cardinals,0
+2014,Wild Card Game,Kansas City Royals,Oakland Athletics,1
+2014,Wild Card Game,San Francisco Giants,Pittsburgh Pirates,1
+2015,World Series,Kansas City Royals,New York Mets,1
+2015,ALCS,Kansas City Royals,Toronto Blue Jays,1
+2015,NLCS,Chicago Cubs,New York Mets,0
+2015,AL Division Series,Kansas City Royals,Houston Astros,1
+2015,AL Division Series,Toronto Blue Jays,Texas Rangers,1
+2015,NL Division Series,St. Louis Cardinals,Chicago Cubs,0
+2015,NL Division Series,Los Angeles Dodgers,New York Mets,0
+2015,Wild Card Game,New York Yankees,Houston Astros,0
+2015,Wild Card Game,Pittsburgh Pirates,Chicago Cubs,0
+2016,World Series,Chicago Cubs,Cleveland Indians,1
+2016,ALCS,Cleveland Indians,Toronto Blue Jays,1
+2016,NLCS,Chicago Cubs,Los Angeles Dodgers,1
+2016,AL Division Series,Texas Rangers,Toronto Blue Jays,0
+2016,AL Division Series,Cleveland Indians,Boston Red Sox,1
+2016,NL Division Series,Chicago Cubs,San Francisco Giants,1
+2016,NL Division Series,Washington Nationals,Los Angeles Dodgers,0
+2016,Wild Card Game,Baltimore Orioles,Toronto Blue Jays,0
+2016,Wild Card Game,San Francisco Giants,New York Mets,1
+2017,World Series,Los Angeles Dodgers,Houston Astros,0
+2017,ALCS,Houston Astros,New York Yankees,1
+2017,NLCS,Los Angeles Dodgers,Chicago Cubs,1
+2017,AL Division Series,Cleveland Indians,New York Yankees,0
+2017,AL Division Series,Houston Astros,Boston Red Sox,1
+2017,NL Division Series,Los Angeles Dodgers,Arizona Diamondbacks,1
+2017,NL Division Series,Washington Nationals,Chicago Cubs,0
+2017,Wild Card Game,New York Yankees,Minnesota Twins,1
+2017,Wild Card Game,Arizona Diamondbacks,Colorado Rockies,1
+2018,World Series,Boston Red Sox,Los Angeles Dodgers,1
+2018,ALCS,Boston Red Sox,Houston Astros,1
+2018,NLCS,Milwaukee Brewers,Los Angeles Dodgers,0
+2018,AL Division Series,Boston Red Sox,New York Yankees,1
+2018,AL Division Series,Houston Astros,Cleveland Indians,1
+2018,NL Division Series,Milwaukee Brewers,Colorado Rockies,1
+2018,NL Division Series,Los Angeles Dodgers,Atlanta Braves,1
+2018,Wild Card Game,New York Yankees,Oakland Athletics,1
+2018,Wild Card Game,Chicago Cubs,Colorado Rockies,0
+2019,World Series,Houston Astros,Washington Nationals,0
+2019,ALCS,Houston Astros,New York Yankees,1
+2019,NLCS,Washington Nationals,St. Louis Cardinals,1
+2019,AL Division Series,Houston Astros,Tampa Bay Rays,1
+2019,AL Division Series,New York Yankees,Minnesota Twins,1
+2019,NL Division Series,Los Angeles Dodgers,Washington Nationals,0
+2019,NL Division Series,Atlanta Braves,St. Louis Cardinals,0
+2019,Wild Card Game,Oakland Athletics,Tampa Bay Rays,0
+2019,Wild Card Game,Washington Nationals,Milwaukee Brewers,1
+2020,World Series,Los Angeles Dodgers,Tampa Bay Rays,1
+2020,ALCS,Tampa Bay Rays,Houston Astros,1
+2020,NLCS,Los Angeles Dodgers,Atlanta Braves,1
+2020,AL Division Series,Tampa Bay Rays,New York Yankees,1
+2020,AL Division Series,Oakland Athletics,Houston Astros,0
+2020,NL Division Series,Los Angeles Dodgers,San Diego Padres,1
+2020,NL Division Series,Atlanta Braves,Miami Marlins,1
+2020,Wild Card Series,Tampa Bay Rays,Toronto Blue Jays,1
+2020,Wild Card Series,Cleveland Indians,New York Yankees,0
+2020,Wild Card Series,Minnesota Twins,Houston Astros,0
+2020,Wild Card Series,Oakland Athletics,Chicago White Sox,1
+2020,Wild Card Series,Los Angeles Dodgers,Milwaukee Brewers,1
+2020,Wild Card Series,San Diego Padres,St. Louis Cardinals,1
+2020,Wild Card Series,Chicago Cubs,Miami Marlins,0
+2020,Wild Card Series,Atlanta Braves,Cincinnati Reds,1
+2021,World Series,Houston Astros,Atlanta Braves,0
+2021,ALCS,Houston Astros,Boston Red Sox,1
+2021,NLCS,Los Angeles Dodgers,Atlanta Braves,0
+2021,AL Division Series,Houston Astros,Chicago White Sox,1
+2021,AL Division Series,Tampa Bay Rays,Boston Red Sox,0
+2021,NL Division Series,Milwaukee Brewers,Atlanta Braves,0
+2021,NL Division Series,San Francisco Giants,Los Angeles Dodgers,0
+2021,Wild Card Game,Boston Red Sox,New York Yankees,1
+2021,Wild Card Game,Los Angeles Dodgers,St. Louis Cardinals,1
+2022,World Series,Houston Astros,Philadelphia Phillies,1
+2022,ALCS,Houston Astros,New York Yankees,1
+2022,NLCS,San Diego Padres,Philadelphia Phillies,0
+2022,AL Division Series,New York Yankees,Cleveland Guardians,1
+2022,AL Division Series,Houston Astros,Seattle Mariners,1
+2022,NL Division Series,Atlanta Braves,Philadelphia Phillies,0
+2022,NL Division Series,Los Angeles Dodgers,San Diego Padres,0
+2022,Wild Card Series,Cleveland Guardians,Tampa Bay Rays,1
+2022,Wild Card Series,Toronto Blue Jays,Seattle Mariners,0
+2022,Wild Card Series,New York Mets,San Diego Padres,0
+2022,Wild Card Series,St. Louis Cardinals,Philadelphia Phillies,0
+2023,World Series,Texas Rangers,Arizona Diamondbacks,1
+2023,ALCS,Houston Astros,Texas Rangers,0
+2023,NLCS,Philadelphia Phillies,Arizona Diamondbacks,0
+2023,AL Division Series,Baltimore Orioles,Texas Rangers,0
+2023,AL Division Series,Houston Astros,Minnesota Twins,1
+2023,NL Division Series,Atlanta Braves,Philadelphia Phillies,0
+2023,NL Division Series,Los Angeles Dodgers,Arizona Diamondbacks,0
+2023,Wild Card Series,Tampa Bay Rays,Texas Rangers,0
+2023,Wild Card Series,Toronto Blue Jays,Minnesota Twins,0
+2023,Wild Card Series,Milwaukee Brewers,Arizona Diamondbacks,0
+2023,Wild Card Series,Philadelphia Phillies,Miami Marlins,1
+2024,Wild Card Series,Houston Astros,Detroit Tigers,0
+2024,Wild Card Series,Milwaukee Brewers,New York Mets,0
+2024,Wild Card Series,Baltimore Orioles,Kansas City Royals,0
+2024,Wild Card Series,San Diego Padres,Atlanta Braves,1

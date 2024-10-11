@@ -1,4 +1,4 @@
-Season,Team,Opening Day 26-man Payroll
+Season,Tm,Opening Day Payroll
 2024,Chicago White Sox,123089383
 2023,Chicago White Sox,181158666
 2022,Chicago White Sox,193370219
@@ -28,27 +28,27 @@ Season,Team,Opening Day 26-man Payroll
 2023,Cleveland Guardians,89424629
 2022,Cleveland Guardians,68238900
 2021,Cleveland Guardians,49694300
-2020,Cleveland Guardians,36186740
-2019,Cleveland Guardians,119575032
-2018,Cleveland Guardians,134851565
-2017,Cleveland Guardians,124116166
-2016,Cleveland Guardians,96304400
-2015,Cleveland Guardians,87997101
-2014,Cleveland Guardians,85416235
-2013,Cleveland Guardians,80605733
-2012,Cleveland Guardians,65430300
-2011,Cleveland Guardians,49426567
-2010,Cleveland Guardians,61453967
-2009,Cleveland Guardians,81579166
-2008,Cleveland Guardians,78970066
-2007,Cleveland Guardians,61673267
-2006,Cleveland Guardians,56031500
-2005,Cleveland Guardians,41502500
-2004,Cleveland Guardians,34319300
-2003,Cleveland Guardians,48584834
-2002,Cleveland Guardians,78909499
-2001,Cleveland Guardians,93360000
-2000,Cleveland Guardians,76500000
+2020,Cleveland Indians,36186740
+2019,Cleveland Indians,119575032
+2018,Cleveland Indians,134851565
+2017,Cleveland Indians,124116166
+2016,Cleveland Indians,96304400
+2015,Cleveland Indians,87997101
+2014,Cleveland Indians,85416235
+2013,Cleveland Indians,80605733
+2012,Cleveland Indians,65430300
+2011,Cleveland Indians,49426567
+2010,Cleveland Indians,61453967
+2009,Cleveland Indians,81579166
+2008,Cleveland Indians,78970066
+2007,Cleveland Indians,61673267
+2006,Cleveland Indians,56031500
+2005,Cleveland Indians,41502500
+2004,Cleveland Indians,34319300
+2003,Cleveland Indians,48584834
+2002,Cleveland Indians,78909499
+2001,Cleveland Indians,93360000
+2000,Cleveland Indians,76500000
 2024,Detroit Tigers,97684833
 2023,Detroit Tigers,122235500
 2022,Detroit Tigers,135043500
@@ -284,17 +284,17 @@ Season,Team,Opening Day 26-man Payroll
 2017,Los Angeles Angels,166375833
 2016,Los Angeles Angels,164673333
 2015,Los Angeles Angels,146341583
-2014,Los Angeles Angels,154546500
-2013,Los Angeles Angels,137271250
-2012,Los Angeles Angels,151381000
-2011,Los Angeles Angels,141755666
-2010,Los Angeles Angels,121113867
-2009,Los Angeles Angels,112869000
-2008,Los Angeles Angels,119216333
-2007,Los Angeles Angels,109251333
-2006,Los Angeles Angels,103472000
-2005,Los Angeles Angels,97725322
-2004,Los Angeles Angels,100534667
+2014,Los Angeles Angels of Anaheim,154546500
+2013,Los Angeles Angels of Anaheim,137271250
+2012,Los Angeles Angels of Anaheim,151381000
+2011,Los Angeles Angels of Anaheim,141755666
+2010,Los Angeles Angels of Anaheim,121113867
+2009,Los Angeles Angels of Anaheim,112869000
+2008,Los Angeles Angels of Anaheim,119216333
+2007,Los Angeles Angels of Anaheim,109251333
+2006,Los Angeles Angels of Anaheim,103472000
+2005,Los Angeles Angels of Anaheim,97725322
+2004,Anaheim Angels,100534667
 2003,Los Angeles Angels,79031667
 2002,Los Angeles Angels,61721667
 2001,Los Angeles Angels,47735167
@@ -545,7 +545,7 @@ Season,Team,Opening Day 26-man Payroll
 2006,Miami Marlins,14998500
 2005,Miami Marlins,60408834
 2004,Miami Marlins,42143042
-2003,Miami Marlins,45050000
+2003,Florida Marlins,45050000
 2002,Miami Marlins,41979917
 2001,Miami Marlins,35762500
 2000,Miami Marlins,19900000
